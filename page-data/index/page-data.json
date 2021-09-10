@@ -1,1 +1,5 @@
-{"componentChunkName":"component---src-pages-index-md","path":"/","result":{"pageContext":{"frontmatter":{"title":"Overview - Adobe Analytics","description":"This is the overview page of Adobe Analytics","contributors":["https://github.com/icaraps"]}}},"staticQueryHashes":["915530536"]}
+{
+    "componentChunkName": "component---src-pages-index-md",
+    "path": "/",
+    "result": {"pageContext":{"frontmatter":{"title":"Home - Studio Doc Plans","description":"Solutions to documentation issues","contributors":["https://github.com/bdenham"]}}},
+    "staticQueryHashes": ["915530536"]}
